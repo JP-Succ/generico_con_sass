@@ -1,0 +1,2 @@
+- correr npm i para instalar dependencias necesarias
+- npm run dev para correr la app

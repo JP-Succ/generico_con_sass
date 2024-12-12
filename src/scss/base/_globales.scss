@@ -1,0 +1,8 @@
+@use "variables" as var;
+
+body {
+  font-family: var.$fuente_principal;
+  font-optical-sizing: auto;
+  font-style: normal;
+  color: var.$rosa;
+}
